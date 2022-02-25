@@ -5,7 +5,7 @@
 
 - The below diagram shows the Design Flow in VLSI.
 
-![VLSI Design Flow](https://user-images.githubusercontent.com/70748543/155379148-c9336879-c260-49d3-8336-257d61466539.jpeg)
+![VLSI Design Flow](https://user-images.githubusercontent.com/70748543/155765803-4f2a28b2-1d4a-4001-b550-5ca6443077ae.JPG)
 
 - **System Specifications**: It is the first step in the design flow. The factors to be considered in this system specifications are performance, functionality, physical   dimensions, fabrications, technology, and design techniques.
 
